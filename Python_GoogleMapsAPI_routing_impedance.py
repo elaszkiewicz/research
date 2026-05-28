@@ -1,3 +1,11 @@
+# ================================================================================
+
+# Google Maps API routing to capture travel distance and time for the shortest path
+# Input data:  id	respondent	latO	lgnO	latD	lgnD	category
+# Output data: respondent	rid	o_lat	o_lon	category	d_lat	d_lon	distance_m	travel_time_min
+
+# ================================================================================
+
 import os
 import time
 import requests
