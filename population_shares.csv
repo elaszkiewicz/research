@@ -1,13 +1,13 @@
 gender;age_group;living_place;share
-0;"""7-15""";Large city (Lodz);0.087895917
-1;"""7-15""";Large city (Lodz);0.083641651
+0;7-15;Large city (Lodz);0.087895917
+1;7-15;Large city (Lodz);0.083641651
 0;16-18;Large city (Lodz);0.030041392
 1;16-18;Large city (Lodz);0.029166129
-0;"""7-15""";Medium-sized cities;0.125427606
-1;"""7-15""";Medium-sized cities;0.119300766
+0;7-15;Medium-sized cities;0.125427606
+1;7-15;Medium-sized cities;0.119300766
 0;16-18;Medium-sized cities;0.046054169
 1;16-18;Medium-sized cities;0.043808474
-0;"""7-15""";Small towns and rural areas;0.16629994
-1;"""7-15""";Small towns and rural areas;0.155817708
+0;7-15;Small towns and rural areas;0.16629994
+1;7-15;Small towns and rural areas;0.155817708
 0;16-18;Small towns and rural areas;0.058255542
 1;16-18;Small towns and rural areas;0.054290706
